@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="color_image_view_width">50dp</dimen>
+    <dimen name="color_image_view_height">50dp</dimen>
+    <dimen name="color_check_width">30dp</dimen>
+    <dimen name="color_check_height">30dp</dimen>
+    <dimen name="color_padding">5dp</dimen>
+</resources>

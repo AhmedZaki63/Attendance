@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="save">Save</string>
+    <string name="extra_less">Extra / Less</string>
+    <string name="hours">Hours</string>
+    <string name="to">To</string>
+    <string name="from">From</string>
+</resources>
