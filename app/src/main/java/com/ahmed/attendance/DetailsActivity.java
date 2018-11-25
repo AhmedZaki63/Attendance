@@ -125,6 +125,9 @@ public class DetailsActivity extends AppCompatActivity {
         } catch (ParseException ignored) {
         }
 
+        hours = Integer.parseInt(hoursText.getText().toString());
+        extra = Integer.parseInt(extraText.getText().toString());
+
         Day day = new Day(
                 date,
                 startedTime,
